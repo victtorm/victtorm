@@ -1,13 +1,3 @@
-### Hi there 👋, my name is Victtor Moraes
-#### I am programmer and 42 student
-![I am programmer and 42 student](https://github.com/victtorm/victtorm/blob/main/Banner.png)
-
-
-Skills: C | C++ | PHYTON
-
-- 🔭 I’m currently working on this page. 
-
-
 ![Design](https://github.com/victtorm/victtorm/blob/main/Banner.png)
 
 # Victtor Moraes
