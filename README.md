@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Victtor Moraes
 #### I am programmer and 42 student
-![I am programmer and 42 student]([https://new.express.adobe.com/id/urn:aaid:sc:EU:98d474d0-82f2-58b8-96ee-723b5dfdc347?invite=true&promoid=Z2G1FQKR&mv=other](https://new.express.adobe.com/published/urn:aaid:sc:EU:e2e30714-69ec-46a7-9fe9-2c2b2a76308a?promoid=Y69SGM5H&mv=other))
+![I am programmer and 42 student](https://github.com/victtorm/victtorm/blob/main/Banner.png)
 
 
 Skills: C | C++ | PHYTON
