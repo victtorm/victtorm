@@ -8,5 +8,11 @@ Skills: C | C++ | PHYTON
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Victtor Moraes/)  
+![Design](https://github.com/victtorm/victtorm/blob/main/Banner.png)
 
+# Victtor Moraes
+I'm Victtor, and I do content on Development. I really enjoy learning languages and frameworks. I also enjoy my journey at school 42. 
+
+## Skills and Experience
+* C
+* C++
