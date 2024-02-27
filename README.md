@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Victtor Moraes
+#### I am programmer and 24 student
+![I am programmer and 24 student](https://new.express.adobe.com/id/urn:aaid:sc:EU:98d474d0-82f2-58b8-96ee-723b5dfdc347?invite=true&promoid=Z2G1FQKR&mv=other)
 
-<!--
-**victtorm/victtorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: C | C++ | PHYTON
 
-- 🔭 I’m currently study in 42 Porto
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Victtor Moraes/)  
+
