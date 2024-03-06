@@ -8,5 +8,5 @@ I'm Victtor, and I do content on Development. I really enjoy learning languages 
 * C++
 
 
-<a href="https://github.com/victtorm/42"><img src="https://github.com/victtorm/victtorm/blob/main/42-Porto.jpg>
+<a href="https://github.com/victtorm/42"><img src="https://github.com/victtorm/victtorm/blob/main/42-Porto.jpg">
 
