@@ -15,7 +15,7 @@ I am currently a student at 42 Porto. I really enjoy learning languages ​​an
 <h2> :fleur_de_lis: Tech Stack </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
   </a>
 </div>
 <h2> :wrench: Tools I've been using </h2>
